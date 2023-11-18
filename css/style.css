@@ -34,6 +34,20 @@
     font-family: abster;
 }
 
+.container .nav ul li{
+    display: inline-block;
+    margin:0 10px;
+}
+
+.container .nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.container .nav ul li a:hover{
+    color: darkseagreen;
+}
+
 .container .spine{
     position: absolute;
     left:50%;
